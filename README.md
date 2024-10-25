@@ -20,13 +20,21 @@ Unsplash: a website for free photos
  Flaticon: a website for icons
  
 Topics we will be-----
+
 Semantic HTML
+
 Placement methods in CSS
+
 Animations in CSS
+
 Design planning
+
 Website analyses
+
 Responsive websites
+
 JavaScript for CTA functionalities
+
 Data storage and data retrieval with JavaScript**
 -----------------------------------------------------------------------------------
 Resources--
