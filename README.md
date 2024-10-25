@@ -1,15 +1,24 @@
-**# kodeloftet_Dag1
+ kodeloftet_Dag1
  Most important tools in learning web development.
 
-** **Github**: this is a documentation platform where we can upload code projects for version control and storage
-**Stackblitz**: which is web-based software for creating projects and writing code in
-**Vercel**: a hosting site for publishing projects
-**Discord**: which is used for communication for the course
-**Figma**: which is a design program
+Github: this is a documentation platform where we can upload code projects for version control and storage
+
+Stackblitz: which is web-based software for creating projects and writing code in
+
+Vercel: a hosting site for publishing projects
+
+Discord: which is used for communication for the course
+
+Figma: which is a design program
+
 Other websites that may be relevant in the course:
- **Unsplash**: a website for free photos
- **Coolors**: a website for color palettes
- **Flaticon**: a website for icons
+
+Unsplash: a website for free photos
+
+ Coolors: a website for color palettes
+ 
+ Flaticon: a website for icons
+ 
 Topics we will be-----
 Semantic HTML
 Placement methods in CSS
